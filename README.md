@@ -36,9 +36,6 @@ The EDA includes the following steps:
 
 Here are some key visualizations included in the analysis:
 
-- **Distribution by Gender**:
-  ![Gender Distribution](images/gender_distribution.png)
-
 - **Age Distribution**:
   ![Age Distribution](images/age_distribution.png)
 
@@ -54,6 +51,9 @@ Here are some key visualizations included in the analysis:
 - **Gold Medals per Country**:
   ![Gold Medals per Country](images/gold_medals_per_country.png)
 
-- **Average Weight by Gender and Sport**:
-  ![Average Weight by Gender and Sport](images/avg_weight_gender_sport.png)
+- **participant_per_year**:
+  ![participant_per_year](images/participant_per_year.png)
+
+- **weight_vs_height_vs_medal**:
+  ![weight_vs_height_vs_medal](images/weight_vs_height_vs_medal.png)
 
