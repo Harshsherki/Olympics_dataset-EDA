@@ -37,16 +37,13 @@ The EDA includes the following steps:
 Here are some key visualizations included in the analysis:
 
 - **Age Distribution**:
-  ![Age Distribution](images/age_distribution.png)
+  ![Age Distribution](images/age_disttribution.png)
 
 - **Height Distribution**:
   ![Height Distribution](images/height_distribution.png)
 
 - **Weight Distribution**:
   ![Weight Distribution](images/weight_distribution.png)
-
-- **Medal Distribution**:
-  ![Medal Distribution](images/medal_distribution.png)
 
 - **Gold Medals per Country**:
   ![Gold Medals per Country](images/gold_medals_per_country.png)
